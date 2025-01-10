@@ -16,3 +16,11 @@ Permite que você defina uma classe filha que reutiliza (herda), estende ou modi
 
 ### Polimorfismo
 Capacidade de um objeto poder ser referenciado de várias formas, ou seja, é capacidade de tratar objetos criados a partir das classes específicas como objetos de uma classe genérica. Cuidado, polimorfismo não quer dizer que o objeto fica se transformando, muito pelo contrário, um objeto nasce de um tipo e morre daquele tipo, o que pode mudar é a maneira como nos referimos a ele.
+
+#Minha atualização do projeto - 10/01/2025
+Nesse desafio de projeto proposto, eu acrescentei algumas funcionalidades ao banco, como criar uma classe Agencia, e instanciar os objetos dela e da classe Conta, vinculando elas a um determinado banco.
+Também modifiquei alguns métodos e acrescentei um para fazer transferências TED para diferentes bancos.
+Deixei simples ainda, mas com possibilidades de melhorias, como utilizar Exceptions e aumentar as funcionalidades do sitema.
+Espero ter correspondido às expectativas desse desafio, e com o tempo melhorar.
+
+João Lucas da Matta Mateus.
